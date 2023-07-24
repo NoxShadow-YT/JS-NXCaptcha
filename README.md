@@ -3,7 +3,7 @@
 ## Project Description
 This project provides a simple JavaScript file that can be added to a website to implement a basic CAPTCHA. The CAPTCHA is used to verify if the user is human or not and prevent automated bots from accessing the website and wasting resources. The CAPTCHA can be either an alphanumeric string or a math question, depending on the implementation chosen.
 
-Other Options: Use this in your Discord Bot!
+Other Options: Use this in your Discord Bot! 
 Other Options: Use this in your Minecraft Server!
 
 ## Project Usage
